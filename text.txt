@@ -1,0 +1,2 @@
+Hello trainer
+i am training for git from git course
